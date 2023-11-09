@@ -11,7 +11,7 @@
 - **Location:** Moscow, Russia
 - **Phone:**+7 958 560 05 20
 - **Email:** dashaborzova@yandex.ru
-- # **Telegram:** @daryaborzova
+- **Telegram:** @daryaborzova
 
 ## About Me
 
@@ -41,10 +41,10 @@ name + " does not play banjo"**
 
 ```
 function areYouPlayingBanjo(name){
-if(name.startsWith('R')|| name.startsWith('r')){
-return name + ' plays banjo';
-}
-return name + ' does not play banjo';
+    if(name.startsWith('R')|| name.startsWith('r')){
+        return name + ' plays banjo';
+    }
+    return name + ' does not play banjo';
 }
 ```
 
@@ -61,7 +61,6 @@ No commerce experience yet.
 
 - **University**: Moscow State Linguistic University
 - **Courses**: - FreeCodeCamp - Geekbrains
-  ====
 
 ## Languages
 
